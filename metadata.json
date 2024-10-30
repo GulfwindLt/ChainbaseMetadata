@@ -1,7 +1,7 @@
 {
-  "name": "cryptoconsole",
+  "name": "gulfwindconsole",
   "website": "https://github.com/stealeruv",
-  "description": "Nodes and testnet",
-  "logo": "https://raw.githubusercontent.com/stealeruv/ChainbaseMetadata/main/console.png",
-  "twitter": "https://x.com/cryptoconsol"
+  "description": "node and testnet",
+  "logo": "",
+  "twitter": "https://x.com/gulfwindlt"
 }
